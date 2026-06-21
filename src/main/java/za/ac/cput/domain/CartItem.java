@@ -16,6 +16,7 @@ public class CartItem {
 
     public String getCartItemId() {
         return cartItemId;
+
     }
 
     public int getQuantity() {
